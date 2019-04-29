@@ -1,3 +1,4 @@
+//contoh
 def tampilkan_menu(nama,umur):
     print "================"
     print " SELAMAT DATANG " +nama+ " umur saya " +str(umur)
